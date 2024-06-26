@@ -44,15 +44,15 @@ The following were the steps followed:
    - The data had no duplicates.
 # Exploratory Data Analysis
 1. Global Sales Distribution
-  - Analyze the distribution of global sales among the top-ranked games.
+    - Analyze the distribution of global sales among the top-ranked games.
 2. Top selling Games Analysis
-  - Analyze the sales patterns of the top 10 selling games.
+    - Analyze the sales patterns of the top 10 selling games.
 3. Regional Sales Comparison
-  - Compare the sales in North America, Europe, Japan, and other regions for each game.
+    - Compare the sales in North America, Europe, Japan, and other regions for each game.
 4. Genre Popularity
-  - Investigate the sales distributions across different genres.
+    - Investigate the sales distributions across different genres.
 5. Yearly Sales Trends
-  - Explore how video game sales have changed over the years for these top games.
+    - Explore how video game sales have changed over the years for these top games.
 
 
 Conclusion
